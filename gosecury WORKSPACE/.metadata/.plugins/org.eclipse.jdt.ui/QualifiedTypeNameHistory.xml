@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="id.java.GOsecury.GOsecuryApplication"/>
-<fullyQualifiedTypeName name="storage.StorageService"/>
-<fullyQualifiedTypeName name="org.apache.tomcat.util.json.JSONParser"/>
-<fullyQualifiedTypeName name="com.fasterxml.jackson.core.JsonParser"/>
-</qualifiedTypeNameHistroy>
