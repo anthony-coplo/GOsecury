@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\anthony\Desktop\gosecury WORKSPACE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3044574903.index
+3865081210.index
+570440819.index
+377240309.index
+3562297154.index
+1024428984.index
